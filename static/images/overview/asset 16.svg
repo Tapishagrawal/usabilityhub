@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_forward_5_black_18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="24 24 0 24 0 0 24 0"></polygon>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product" transform="translate(-149.000000, -4033.000000)">
+            <g id="ic_forward_5_black_18px" transform="translate(145.000000, 4032.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="a"></g>
+                <path d="M4,13 C4,17.4 7.6,21 12,21 C16.4,21 20,17.4 20,13 L18,13 C18,16.3 15.3,19 12,19 C8.7,19 6,16.3 6,13 C6,9.7 8.7,7 12,7 L12,11 L17,6 L12,1 L12,5 C7.6,5 4,8.6 4,13 Z" id="Shape" fill="#B9CDE4" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

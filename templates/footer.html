@@ -1,0 +1,74 @@
+
+    <!--FOOTER START-->
+    <footer class="footer">
+        <div class="container foot-container flex">
+            <a href="#" class="nav-companie-logo">
+                <img src="/static/images/home/company-logo.png" alt="Company Logo"> 
+            </a>
+            <div class="footer-link flex">
+                <h3>Product</h3>
+                <a href="#" class="hover-link">Overview</a>
+                <a href="#" class="hover-link">Pricing</a>
+                <a href="#" class="hover-link">UsabilityHub panel</a>
+                <a href="#" class="hover-link">Customers</a>
+                <a href="#" class="hover-link">Status page</a>
+                <a href="#" class="hover-link">Sign up</a>
+                <a href="#" class="hover-link">Book a demo</a>
+            </div>
+            <div class="footer-link flex">
+                <h3>Methodogies</h3>
+                <a href="#" class="hover-link">Card sorting</a>
+                <a href="#" class="hover-link">Prototype testing</a>
+                <a href="#" class="hover-link">First clik tests</a>
+                <a href="#" class="hover-link">Preference tests</a>
+                <a href="#" class="hover-link">Five second tests</a>
+                <a href="#" class="hover-link">Design surveys</a>
+            </div>
+            <div class="footer-link flex">
+                <h3>Resources</h3>
+                <a href="#" class="hover-link">Blog</a>
+                <a href="#" class="hover-link">Examples</a>
+                <a href="#" class="hover-link">Testing guides</a>
+                <a href="#" class="hover-link">Help center</a>
+                <a href="#" class="hover-link">Careers</a>
+                <a href="#" class="hover-link">Contact</a>
+                
+            </div>
+        </div>
+    </footer>
+    <!--FOOTER END-->
+
+    <!--SUB-FOOTER START-->
+    <footer class="sub-footer">
+        <div class="container sub-container flex">
+            <div class="sub-links flex">
+                <a href="#" class="hover-link">Privacy policy</a>
+                <a href="#" class="hover-link">Teems & Conditions</a>
+                <a href="#" class="hover-link">Security information</a>
+            </div>
+            <div class="sub-media">
+                <a href="#" class="hover-link"><i class="fa-brands fa-square-facebook"></i></a>
+                <a href="#" class="hover-link"><i class="fa-brands fa-square-twitter"></i></a>
+                <a href="#" class="hover-link"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="#" class="hover-link"><i class="fa-brands fa-youtube"></i></a>
+            </div>
+        </div>
+    </footer>
+    <!--SUB-FOOTER END-->
+    
+    <script>
+        const toggleButton=document.getElementById('nav-toggle');
+        const navLinks=document.getElementById('nav-links');
+
+        toggleButton.addEventListener('click', () =>{
+            navLinks.classList.toggle('active');
+        })
+    </script>
+    <script>
+        const price_toggle = document.getElementById('price-toggle');
+        price_toggle.onclick=function(){
+            price_toggle.classList.toggle('active-btn')
+        }
+    </script>  
+</body>
+</html>

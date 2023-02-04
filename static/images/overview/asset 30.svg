@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_call_split_black_18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product" transform="translate(-160.000000, -4714.000000)">
+            <g id="ic_call_split_black_18px" transform="translate(155.000000, 4709.000000)">
+                <polygon id="Shape" points="0 0 32 0 32 32 0 32"></polygon>
+                <path d="M18.6666667,5.33333333 L21.72,8.38666667 L17.88,12.2266667 L19.7733333,14.12 L23.6133333,10.28 L26.6666667,13.3333333 L26.6666667,5.33333333 L18.6666667,5.33333333 Z M13.3333333,5.33333333 L5.33333333,5.33333333 L5.33333333,13.3333333 L8.38666667,10.28 L14.6666667,16.5466667 L14.6666667,26.6666667 L17.3333333,26.6666667 L17.3333333,15.4533333 L10.28,8.38666667 L13.3333333,5.33333333 Z" id="Shape" fill="#2294ED" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

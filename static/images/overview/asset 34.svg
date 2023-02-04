@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_query_builder_black_18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product" transform="translate(-743.000000, -4974.000000)">
+            <g id="ic_query_builder_black_18px" transform="translate(741.000000, 4972.000000)">
+                <path d="M15.9866667,2.66666667 C8.62666667,2.66666667 2.66666667,8.64 2.66666667,16 C2.66666667,23.36 8.62666667,29.3333333 15.9866667,29.3333333 C23.36,29.3333333 29.3333333,23.36 29.3333333,16 C29.3333333,8.64 23.36,2.66666667 15.9866667,2.66666667 Z M16,26.6666667 C10.1066667,26.6666667 5.33333333,21.8933333 5.33333333,16 C5.33333333,10.1066667 10.1066667,5.33333333 16,5.33333333 C21.8933333,5.33333333 26.6666667,10.1066667 26.6666667,16 C26.6666667,21.8933333 21.8933333,26.6666667 16,26.6666667 Z M16.6666667,9.33333333 L14.6666667,9.33333333 L14.6666667,17.3333333 L21.6666667,21.5333333 L22.6666667,19.8933333 L16.6666667,16.3333333 L16.6666667,9.33333333 Z" id="Combined-Shape" fill="#2294ED" fill-rule="nonzero"></path>
+                <polygon id="Shape" points="0 0 32 0 32 32 0 32"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

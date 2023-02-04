@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="21px" viewBox="0 0 26 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_text_fields_black_18px</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="32 32 0 32 0 0 32 0"></polygon>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product" transform="translate(-1037.000000, -4977.000000)">
+            <g id="ic_text_fields_black_18px" transform="translate(1034.000000, 4972.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="a"></g>
+                <path d="M3.33333333,5.33333333 L3.33333333,9.33333333 L10,9.33333333 L10,25.3333333 L14,25.3333333 L14,9.33333333 L20.6666667,9.33333333 L20.6666667,5.33333333 L3.33333333,5.33333333 Z M28.6666667,12 L16.6666667,12 L16.6666667,16 L20.6666667,16 L20.6666667,25.3333333 L24.6666667,25.3333333 L24.6666667,16 L28.6666667,16 L28.6666667,12 Z" id="Shape" fill="#2294ED" fill-rule="nonzero" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

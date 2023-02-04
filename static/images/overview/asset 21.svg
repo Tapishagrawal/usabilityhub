@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="20px" viewBox="0 0 10 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_flash_on_black_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Product" transform="translate(-836.000000, -4135.000000)">
+            <g id="ic_flash_on_black_24px" transform="translate(828.000000, 4134.000000)">
+                <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                <polygon id="Shape" fill="#B9CDE4" fill-rule="nonzero" points="8 1 8 12 11 12 11 21 18 9 14 9 18 1"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

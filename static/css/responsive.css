@@ -1,0 +1,645 @@
+@media screen and (max-width:1176px) {
+    .tester-text{
+        display: none;
+    }
+    .recruit h1{
+        font-size: 2.5rem;
+    }
+    .appfreature{
+        gap: 5px;
+    }
+
+    /* -----------GUides start------------- */
+    .guide-card{
+        width: 306px;
+        height: 374px;
+    }
+    /* -----------GUides end------------- */
+    
+}
+@media screen and (max-width:991px) {
+    /* -----------home start------------- */
+    .nav-toggle{
+        display: block;
+        margin-right: 20px;
+    }
+    .main-nav{
+        overflow:initial;
+        position: relative;
+    }
+    .dropdown{
+        width: 100%;
+        align-items: center;
+        left: 0px;
+        height: 450px;
+    }
+    .dropdown.drop2{
+        height: 250px;
+    }
+    .nav-links{
+        position: absolute;
+        left: -100%;
+        top:100%;
+        background-color: white;
+        width: 100%;
+        padding-block: 20px;
+        box-shadow: 0px 5px 10px -7px black;
+        transition: 0.5s;
+        z-index: 1;
+    }
+    .nav-links ul{
+        align-items: flex-start;
+        margin-left: 40px;
+    }
+    .nav-links.active{
+        left: 0%;
+    }
+    .nav-links ul{
+        flex-direction: column;
+
+    }
+    .example-card{
+        width: calc(50% - 10px);
+        height: 200px;
+    }
+    .example-area{
+        gap: 20px;
+    }
+    .testing{
+        margin-block: 20px;
+    }
+    /* -----------home end------------- */
+
+    /* ----------overview start--------- */
+    .over-head p{
+        font-size: 1rem;
+    }
+    
+    .recruit{
+        justify-content: initial;
+        gap: 115px;
+    }
+    .appfreature{
+        justify-content:space-evenly ;
+        gap: 15px;
+    }
+    .app-card{
+        width: calc(50% - 10px);
+    }
+    /* ----------overview end--------- */
+
+    /* ----------card-sorting start--------- */
+    .card-feature-lower {
+        padding: 0px
+    }
+    /* ----------card-sorting end--------- */
+
+    /* ----------Panel Start--------- */
+    p{
+        font-size: 1rem;
+    }
+    .brand-upper h1 {
+        font-size: 2.25rem;
+    }
+    .brand-down img {
+        width: 90px;
+    }
+    .brand-down img:nth-child(4) {
+        width: 130px;
+    }
+    .brand-down img:nth-child(6) {
+        width: 55px;
+    }
+    
+    /* ----------Panel end--------- */
+    
+    /* ----------Customers Start--------- */
+    .cus-feat-companies{
+        gap: 35px;
+    }    
+    /* ----------Customers end--------- */
+
+    /* ----------Pricing Start--------- */
+    .left-pri {
+        max-width: 42%;
+    }
+    .left-pri h1 {
+        font-size: 2.8rem;
+        font-weight: 500;
+        margin-bottom: 2px;
+    }
+    .pricing-section {
+        flex-wrap: wrap;
+        margin-bottom: 50px;
+    }
+    .price-container {
+        width: 49%;
+        margin-bottom: 14px;
+    }
+    .plan-card{
+        width: 25%;
+    }
+    .questions h4 {
+        font-size: 1rem;
+    }
+    /* ----------Pricing end--------- */
+
+    /* -----------GUides start------------- */
+    .guide-card{
+        width: 49%;
+        height: 550px;
+    }
+    .guide-container{
+        justify-content: flex-start;
+    }
+    /* -----------GUides end------------- */
+}
+
+@media screen and (max-width:839px) {
+    .guide-card{
+        width: 40%;
+        height: 390px;
+    }
+    .guide-container{
+        justify-content: center;
+    }
+    .guide-card-text h2{
+        font-size: 1.5rem;
+    }
+}
+
+
+@media screen and (max-width:767px) {
+
+    /* -----------home start------------- */
+        .primary-btn{
+            width: 90%;
+        }
+        .header-section{
+            flex-direction: column-reverse;
+        }
+        .herder-left{
+            text-align: center;
+            width: 100vw;
+        }
+        .header-right img{
+            width: 80%;
+        }
+        .header-right{
+            text-align: center;
+        }
+        .features-section{
+            margin-top: 60px;
+        }
+        .feature-card{
+            min-width:calc(50% - 10px) ;
+        }
+        .features-head h2{
+            font-size: 2rem;
+        }
+        .big-feature-section{
+            flex-direction: column;
+        }
+        .big-feature-section:nth-child(2){
+            flex-direction: column;        
+        }
+        .feature-img img{
+            width: 80%;
+        }   
+        .feature-img{
+            text-align: center;
+        }   
+        .plan-contant{
+            flex-direction: column-reverse;
+        }  
+        .plan-right img{
+            width: 60%;
+        }
+        .plan-left{
+            width: 100%;
+        }
+        .plan-left .primary-btn{
+            width: 100%;
+            display: block;
+        }
+        .foot-container{
+            flex-direction: column;
+            align-items: center;
+            gap: 30px;
+        }
+        .footer-link{
+            align-items: center;
+        }
+        .plan-left{
+            text-align: center;
+        }
+        
+        /* -----------home end------------- */
+
+    /* ----------overview start--------- */
+    .over-head p{
+        font-size: 0.9rem;
+    }
+    .over-head {
+        max-width: 470px;
+    }
+    .over-feat{
+        flex-direction: column;
+        text-align: center;
+        gap: 40px;
+    }
+    .over-big-card{
+        width: 0px;
+        min-width: 100%;
+        align-items: center;
+    }
+    .over-big-feat .over-feat:nth-child(2n){
+        flex-direction: column;
+    }
+    .over-big-card p{
+        font-size: 1rem;
+    }
+    .over-big-card h2{
+        font-size: 1.5rem;
+    }
+    .over-big-feat .over-feat:nth-child(2n) .over-big-img{
+        text-align: center;
+    }
+    
+    .recruit{
+        flex-direction: column;
+    }
+    .recruit h1{
+        font-size: 1.8rem;
+    }
+    .recruit-section{
+        background-image: linear-gradient(to bottom, var(--primary-color) 50%, #1d4564 50%);
+    }
+    .right-recruit{
+        width: 75%;
+    }
+    .left-recruit{
+        width: 75%;
+    }
+    .companies-section-over h2{
+        font-size: 1.4rem;
+    }
+
+    .app-card p{
+        text-align: center;
+        font-size: 1rem;
+    }
+    /* ----------overview end--------- */
+
+    /* ----------card-sorting start--------- */
+    .feature-card-pro{
+        max-width: 80%;
+    }
+    .card-feature{
+        flex-direction: column-reverse;
+    }
+    .card-hero .card-feature:nth-child(2n) {
+        flex-direction: column-reverse;
+    }
+    .card-feature-img img {
+        width: 100%;
+    }
+    .card-feature-upper {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .sub-card {
+        width: 100%;
+    }
+    .card-testi {
+        max-width: 100%;
+    }
+    /* ----------card-sorting end--------- */
+
+    /* ----------Panel start--------- */
+    .matrics {
+        flex-direction: column;
+        gap: 30px;
+    }
+    .martic-section h2{
+        font-size: 1.5rem;
+    }
+    .martic-section p{
+        font-size: 0.9rem;
+    }
+    .panel-feature-section{
+        flex-direction: column;
+    }
+    .panel-feature .panel-feature-section:nth-child(2n) {
+        flex-direction: column;
+    }
+    .panle-feature-img{
+        width: 80%;
+    }
+    .panle-feature-contant {
+        max-width: 100%;
+        text-align: center;
+        padding-inline: 20px;
+    }
+    .panle-feature-contant h2 {
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    .qa {
+        width: 100%;
+        text-align: center;
+        height: 245px;
+    }
+    .qa p{
+        font-size: 0.9rem;
+    }
+    .panel-contant {
+        flex-direction: column;
+    }
+    .qa-section {
+        height: 140px;
+    }
+    .brand-upper{
+        width: 100%;
+    }
+    .brand-upper p{
+        margin: 20px 0 18px 0;
+    }
+    .brand-down{
+        gap: 10px;
+    }
+    .panel-contant{
+        gap: 45px;
+    }
+    /* ----------Panel end--------- */
+
+    /* ----------Customers Start--------- */
+    .container-haeding h1 {
+        font-size: 2.5rem;
+    }
+    .container-haeding {
+        text-align: center;
+    }
+    .cou-feat {
+        text-align: center;
+    }
+    .cus-feat-sec {
+        flex-direction: column;
+    }
+    
+    .cus-feat-sec img {
+        width: 100%;
+    }    
+    .cus-testi img {
+        width: 79px;
+    }
+    .cus-user-section img{
+        width: 50px;
+    }
+    .cus-testi{
+        width: 100%;
+    }
+    .inner-cus-testi {
+        text-align: left;
+        width: 67%;
+        margin-left: 50px;
+        line-height: 41px;
+    }
+    .testi-text h3 {
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+    /* ----------Customers end--------- */
+
+    /* ----------Pricing Start--------- */
+    .price-header {
+        flex-direction: column;
+        gap: 80px;
+    }
+    .left-pri {
+        max-width: 100%;
+        text-align: center;
+    }
+    .price-header img {
+        width: 33%;
+    }
+    .upper-btn {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .price-container {
+        width: 100%;
+        margin-bottom: 14px;
+        height: 475px;
+    }
+    .plan-card{
+        width: 50%;
+    }
+    .timing-heade{
+        width: 100%;
+    }
+    .time-con-card img{
+        width: 160px;
+    }
+    .time-con-card{
+        width: 30%;
+    }
+    .frequent-question-section{
+        flex-direction: column;
+        text-align: center;
+        gap: 13px;
+    }
+    .questions{
+        min-height: 140px;
+    }
+    .time-con-card h4 {
+        font-size: 1rem;
+    }
+    .right-responce{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .left-responce {
+        width: 100%;
+        text-align: center;
+    }
+    .left-responce h2 {
+        font-size: 1.5rem;
+    }
+    .right-responce{
+        flex-direction: column;
+    }
+    .responce-time{
+        flex-direction: column;
+    }
+    .time-card {
+        text-align: center;
+        width: 100%;
+        margin-block: 50px;
+    }
+    .profits-conntainer{
+        flex-direction: column;
+    }
+    .profits-good-panel{
+        flex-direction: column;
+        gap: 80px;
+    }
+    .good-content .primary-btn,.scal-bts .primary-btn {
+        width: 145px;
+    }
+    .good-content {
+        align-items: center;
+        width: 100%;
+        text-align: center;
+    }
+    .scaling-container img{
+        width: 15%;
+    }
+    .scaling-container h2{
+        font-size: 1.7rem;
+    }
+    /* ----------Pricing end--------- */
+
+    /* -----------GUides Start------------- */
+    .guide-card{
+        height: 249px;
+        width: 32%;
+    }
+    .guide-card-text h2{
+        font-size: 1.1rem;
+    }
+    /* -----------GUides end------------- */
+
+
+
+}
+
+@media screen and (max-width:479px) {
+
+    /* -----------home start------------- */
+
+    :root{
+        --padding-inline:10px;
+    }
+    h1{
+        font-size: 2rem;
+    }
+    h2{
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+    h4{
+        font-size: 16px;
+        font-weight: 500;
+    }
+    p{
+        font-size: 1rem;
+    }
+    .features-head h2{
+        font-size: 1.5rem;
+    }
+    .feature-card{
+        min-width: 100%; ;
+    }
+    .example-card{
+        width: 100%;
+        height: 200px;
+    }
+    .testing p{
+        margin-top:0px;
+    }
+    /* -----------home end------------- */
+    .over-head {
+        max-width: 80%;
+    }
+
+    /* -----------overview start------------- */
+    .recruit h1{
+        font-size: 1.8rem;
+    }
+    .recruit ul li h3{
+        font-size: 1.2rem;
+    }
+    .app-card{
+        width: calc(100% - 10px);
+    }
+    /* -----------overview end------------- */
+    .card-example-head h2 {
+        font-size: 2.5rem;
+    }
+
+    /* ----------Panel strat--------- */
+    .qa-section {
+        height: 160px;
+    }
+    .panel-contant{
+        gap: 80px;
+    }
+    .panle-feature-contant h2 {
+        font-size: 1.3rem;
+    }
+    .panle-feature-contant p{
+        font-size: 0.9rem;
+        line-height: 24px;
+    }
+    .qa h4{
+        font-weight: 500;
+        font-size: 1.1rem;
+    }
+    /* ----------Panel end--------- */
+
+    /* ----------Customers Start--------- */
+    .inner-cus-testi{
+        width: 85%;
+    }
+    .testi-text h3{
+        font-size: 1.4rem;
+    }
+    /* ----------Customers end--------- */
+
+    /* ----------Pricing Start--------- */
+    .left-pri h1{
+        font-size: 2rem;
+    }
+    .price-header img{
+        width: 50%;
+    }
+    .btn-text h4{
+        font-size: 14px;
+    }
+    .upper-btn{
+        text-align: center;
+    }
+    .separately {
+        font-size: 0.95rem;
+    }
+    .price-container{
+        width: 90%;
+    }
+    .pricing-section{
+        justify-content: center;
+    }
+    .timing-type {
+        flex-direction: column;
+        gap: 60px;
+    }
+    .time-con-card{
+        width: 50%;
+    }
+    /* ----------Pricing end--------- */
+
+    /* -----------Guides Start------------- */
+    .guide-card {
+        height: 430px;
+        width: 77%;
+    }
+    .guide-card-text h2 {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    /* -----------Guides end------------- */
+
+}
+
+
